@@ -1,0 +1,9 @@
+# Raw source data: 44 MB, rebuilt by data/prepare_data.py
+data/online_retail_II.xlsx
+data/online_retail_II.zip
+data/daily_demand.csv
+
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
