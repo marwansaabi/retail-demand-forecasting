@@ -1,6 +1,6 @@
 # 📦 Retail Demand Forecasting
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://marwan-retail-demand-forecasting.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/🚀_Try_it_live-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://marwan-retail-demand-forecasting.streamlit.app/)
 
 Weekly SKU-level demand forecasting on two years of real e-commerce
 transactions, benchmarked against the baselines that actually matter.
